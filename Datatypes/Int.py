@@ -20,30 +20,47 @@
 #Float
 
 #hfgshf ctrl+/
-
-f= 10.0
-
-print(' type of f', type(f))
-
-g= 1.2e4
-
-print(g)
-
-print('type of g', type(g))
-
-a=10
-
-print("a value is",a)
-
-print(" a values ",a.__float__())
-
-h= -20
-print('value of h', h)
-print('type of h', type(h))
-
-
+#
+# f= 10.0
+#
+# print(' type of f', type(f))
+#
+# g= 1.2e4
+#
+# print(g)
+#
+# print('type of g', type(g))
+#
+# a=10
+#
+# print("a value is",a)
+#
+# print(" a values ",a.__float__())
+#
+# h= -20
+# print('value of h', h)
+# print('type of h', type(h))
 
 
+
+# a= 1+2j
+#
+# print(a.real)
+#
+# print(a.imag)
+
+
+# Boolean
+
+a = True
+
+b = False
+
+print(type(a))
+
+print(type(b))
+
+print(b+b)
 
 
 
